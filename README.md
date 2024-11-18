@@ -17,7 +17,7 @@ The data was provided in `.nii.gz` format.
 **Link to the Neurosynth pages**: https://neurosynth.org/analyses/terms/anxiety%20disorders/
 
 ### Files in This Repository
-- **`assignment.ipynb`**: This is the Jupyter Notebook containing all code and figures.
+- **`anxiety_disorders_notebook.ipynb`**: This is the Jupyter Notebook containing all code and figures.
 
 ### Python Packages Used
 The following Python packages were used in the project:
